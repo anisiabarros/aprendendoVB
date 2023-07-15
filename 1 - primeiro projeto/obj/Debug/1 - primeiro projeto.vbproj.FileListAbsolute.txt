@@ -1,0 +1,13 @@
+C:\projetos\vb\Aprendendo VB\1 - primeiro projeto\bin\Debug\1 - primeiro projeto.exe.config
+C:\projetos\vb\Aprendendo VB\1 - primeiro projeto\bin\Debug\1 - primeiro projeto.exe
+C:\projetos\vb\Aprendendo VB\1 - primeiro projeto\bin\Debug\1 - primeiro projeto.pdb
+C:\projetos\vb\Aprendendo VB\1 - primeiro projeto\bin\Debug\1 - primeiro projeto.xml
+C:\projetos\vb\Aprendendo VB\1 - primeiro projeto\obj\Debug\1 - primeiro projeto.vbproj.AssemblyReference.cache
+C:\projetos\vb\Aprendendo VB\1 - primeiro projeto\obj\Debug\1 - primeiro projeto.vbproj.SuggestedBindingRedirects.cache
+C:\projetos\vb\Aprendendo VB\1 - primeiro projeto\obj\Debug\_1___primeiro_projeto.Form1.resources
+C:\projetos\vb\Aprendendo VB\1 - primeiro projeto\obj\Debug\_1___primeiro_projeto.Resources.resources
+C:\projetos\vb\Aprendendo VB\1 - primeiro projeto\obj\Debug\1 - primeiro projeto.vbproj.GenerateResource.cache
+C:\projetos\vb\Aprendendo VB\1 - primeiro projeto\obj\Debug\1 - primeiro projeto.vbproj.CoreCompileInputs.cache
+C:\projetos\vb\Aprendendo VB\1 - primeiro projeto\obj\Debug\1 - primeiro projeto.exe
+C:\projetos\vb\Aprendendo VB\1 - primeiro projeto\obj\Debug\1 - primeiro projeto.xml
+C:\projetos\vb\Aprendendo VB\1 - primeiro projeto\obj\Debug\1 - primeiro projeto.pdb
